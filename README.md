@@ -53,6 +53,11 @@ implemented with turning animation, start and stop
 
 <img width="1457" height="1809" alt="Screenshot 2025-11-27 175650" src="https://github.com/user-attachments/assets/81f8f830-f622-4802-bec6-e4d8d9af19fa" />
 
+### Running Into Wall Detection
+
+<img width="1722" height="1635" alt="Screenshot 2025-11-27 180347" src="https://github.com/user-attachments/assets/c5d47d9b-3949-4001-88ea-7763437f664d" />
+
+
 ### Combat System
 Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
 - Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
