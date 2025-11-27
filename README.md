@@ -49,7 +49,7 @@ implemented with turning animation, start and stop
 [![Ragdoll Animation](https://img.youtube.com/vi/DfBtOjgbt3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=DfBtOjgbt3k)
 
 ### Combat System
-Details...
+Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Health/Mana/Stance/Stamina Regeneration Rate
 
 ## AI
 Details...
