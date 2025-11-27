@@ -9,7 +9,7 @@
 - [Abilities](#abilities)
 
 ## Overview
-Write intro here...
+My Attempt at RPG game development with Unreal Engine
 
 ## Animation System
 fully modular character imported from DazStudio
