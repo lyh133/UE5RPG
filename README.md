@@ -9,7 +9,8 @@
 - [Abilities](#abilities)
 
 ## Overview
-My Action RPG Project with Unreal Engine. with characters imported from Dazstudio using Genesis 9 Skeleton with fully modular clothing and High resolution Mesh
+My Action RPG Project with Unreal Engine. with characters imported from Dazstudio using Genesis 9 Skeleton with fully modular clothing and 8K resolution Mesh.
+works with Dazstudio Morph target to bring facial animation to character. 
 
 ## Animation System
 - Animation Overlay System for additive animations (Injured,Tired, battle stance)
