@@ -49,8 +49,10 @@ implemented with turning animation, start and stop
 [![Ragdoll Animation](https://img.youtube.com/vi/DfBtOjgbt3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=DfBtOjgbt3k)
 
 ### Combat System
-Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Health/Mana/Stance/Stamina Regeneration Rate
-
+Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
+- Debuffs are applied to injured and tired character reducing regeneration rate and has increases damage recieved.
+- character with high force will deal larger stance damage to reciepient, When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
+  
 ## AI
 Details...
 
