@@ -21,7 +21,8 @@ works with Dazstudio Morph target to bring facial animation to character.
 - strafe and non-strafe Locomotion
 - 8 Ways smooth start and stop animation
 - Additive Leaning when character runs in strafe locomotion
-- Wall Detection and stop animation
+- Wall Detection stopping animation
+- Foot and Hand IK for realistic foot placement on inclined surface 
 
 ### Strafe Locomotion  
 walk jog sprint implemented with distance matching
