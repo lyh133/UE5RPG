@@ -13,6 +13,14 @@ My Action RPG Project with Unreal Engine
 
 ## Animation System
 fully modular character imported from DazStudio
+- Animation Overlay System for additive animations (Injured,Tired, battle stance)
+- Ragdoll System and recovery animation
+- Aim Offset(characters upperbody moves with mouse)
+- Look Direction Rotation(Smooth Character Rotation animation towards Look direction)
+- Turning Animation when sudden change in locomotion direction
+- strafe and non-strafe Locomotion
+- Additive Leaning when character runs in strafe locomotion
+- Wall Detection and stop animation
 
 ### Strafe Locomotion  
 walk jog sprint implemented with distance matching
