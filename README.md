@@ -48,6 +48,11 @@ implemented with turning animation, start and stop
 
 [![Ragdoll Animation](https://img.youtube.com/vi/DfBtOjgbt3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=DfBtOjgbt3k)
 
+### Foot and Hand IK
+<img width="1612" height="1774" alt="Screenshot 2025-11-27 175044" src="https://github.com/user-attachments/assets/b729262d-5fb1-40f3-b220-b8ed01998f80" />
+
+<img width="1457" height="1809" alt="Screenshot 2025-11-27 175650" src="https://github.com/user-attachments/assets/81f8f830-f622-4802-bec6-e4d8d9af19fa" />
+
 ### Combat System
 Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
 - Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
