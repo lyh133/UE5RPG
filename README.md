@@ -25,11 +25,11 @@ works with Dazstudio Morph target to bring facial animation to character.
 - Foot and Hand IK for realistic foot placement on inclined surface 
 - 4 directional Hit reaction System with Light,Medium, KnockBack and KnockDown Animation
 ### Strafe Locomotion  
-walk jog sprint implemented with distance matching
+walk jog sprint with distance matching, Alternative Foot stoping. Look direction Rotation 
 
 ▶️Click to Play
 
-[![8 Ways strafe movement](https://img.youtube.com/vi/iFtPwbyxWeM/maxresdefault.jpg)](https://www.youtube.com/watch?v=iFtPwbyxWeM)
+[![8 Ways strafe Locomotion](https://img.youtube.com/vi/t9RhUe8Mw7E/maxresdefault.jpg)](https://www.youtube.com/watch?v=t9RhUe8Mw7E)
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/40ce59b0-8cd2-4e69-a46b-2a402be2697b" />
