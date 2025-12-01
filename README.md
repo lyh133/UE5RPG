@@ -38,12 +38,11 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 implemented with turning animation, start and stop
 
+▶️Click to Play
 
 
 ### Directional Hit Reaction 
 has light,medium,knockback and knockdown severity
-
-▶️Click to Play
 
 [![Directional Hit Reaction](https://img.youtube.com/vi/_K6sNZNwI1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=_K6sNZNwI1U)
 
