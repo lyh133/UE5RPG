@@ -5,8 +5,10 @@
   - [8 Ways strafe movement](#Strafe-Locomotion)
   - [Free camera locomotion](#Free-camera-locomotion)
   - [Ragdoll Animation](#Ragdoll-Animation)
-- [AI](#ai)
-- [Abilities](#abilities)
+- [Gameplay](#gameplay)
+  - [Combat System](#combatsystem)
+  - [AI](#ai)
+  - [Abilities](#abilities)
 
 ## Overview
 My Action RPG Project with Unreal Engine. with characters imported from Dazstudio using Genesis 9 Skeleton with fully modular clothing and 8K resolution Mesh.
@@ -68,6 +70,7 @@ has light,medium,knockback and knockdown severity
 
 <img width="1722" height="1635" alt="Screenshot 2025-11-27 180347" src="https://github.com/user-attachments/assets/c5d47d9b-3949-4001-88ea-7763437f664d" />
 
+## Gameplay
 
 ### Combat System
 Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
@@ -77,8 +80,8 @@ Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Heal
 ▶️Click to Play
 
 [![free camera locomotion](images/tn3.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
-## AI
+### AI
 Details...
 
-## Abilities
+### Abilities
 Details...
