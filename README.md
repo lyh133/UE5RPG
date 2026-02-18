@@ -49,6 +49,8 @@ has light,medium,knockback and knockdown severity
 
 [![free camera locomotion](https://img.youtube.com/vi/vHyyhOJNtnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=vHyyhOJNtnQ)
 
+▶️Click to Play
+
 [![free camera locomotion](images/tn1.png)](https://www.bilibili.com/video/BV1ccZKBFEAy/)
 
 ### Ragdoll Animation
@@ -71,6 +73,8 @@ has light,medium,knockback and knockdown severity
 Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
 - Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
 - character with high force will deal larger stance damage to reciepient, When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
+  
+▶️Click to Play
 
 [![free camera locomotion](images/tn3.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
 ## AI
