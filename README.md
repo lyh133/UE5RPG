@@ -72,7 +72,7 @@ Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Heal
 - Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
 - character with high force will deal larger stance damage to reciepient, When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
 
-[![free camera locomotion](images/tn2.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
+[![free camera locomotion](images/tn3.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
 ## AI
 Details...
 
