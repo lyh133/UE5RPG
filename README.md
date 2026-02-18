@@ -49,6 +49,8 @@ has light,medium,knockback and knockdown severity
 
 [![free camera locomotion](https://img.youtube.com/vi/vHyyhOJNtnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=vHyyhOJNtnQ)
 
+[![free camera locomotion](images/tn1.png)](https://www.bilibili.com/video/BV1ccZKBFEAy/)
+
 ### Ragdoll Animation
 
 ▶️Click to Play
