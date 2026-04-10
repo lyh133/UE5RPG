@@ -5,6 +5,8 @@
   - [8 Ways strafe movement](#Strafe-Locomotion)
   - [Free camera locomotion](#Free-camera-locomotion)
   - [Ragdoll Animation](#Ragdoll-Animation)
+- [Gore System](#player)
+  - [Procedural Mesh Destruction](#Mesh-Destruction)
 - [Gameplay](#gameplay)
   - [Combat System](#combatsystem)
   - [AI](#ai)
@@ -69,6 +71,12 @@ has light,medium,knockback and knockdown severity
 ### Running Into Wall Detection
 
 <img width="1722" height="1635" alt="Screenshot 2025-11-27 180347" src="https://github.com/user-attachments/assets/c5d47d9b-3949-4001-88ea-7763437f664d" />
+
+## Gore System
+
+### Procedural Mesh Destruction
+Main Character has layers of inner mesh inside the outer skin. The inner meat, inner skeleton and inner organs
+the outer skin and inner meat can be destroyed in runtime to create gore effect on the character.
 
 ## Gameplay
 
