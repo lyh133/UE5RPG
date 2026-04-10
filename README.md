@@ -5,7 +5,7 @@
   - [8 Ways strafe movement](#Strafe-Locomotion)
   - [Free camera locomotion](#Free-camera-locomotion)
   - [Ragdoll Animation](#Ragdoll-Animation)
-- [Gore System](#player)
+- [Gore System](#gore-system)
   - [Procedural Mesh Destruction](#Mesh-Destruction)
 - [Gameplay](#gameplay)
   - [Combat System](#combatsystem)
