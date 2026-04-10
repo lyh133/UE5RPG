@@ -77,6 +77,12 @@ has light,medium,knockback and knockdown severity
 ### Procedural Mesh Destruction
 Main Character has layers of inner mesh inside the outer skin. The inner meat, inner skeleton and inner organs
 the outer skin and inner meat can be destroyed in runtime to create gore effect on the character.
+<img width="2830" height="1915" alt="Screenshot 2026-03-04 000511" src="https://github.com/user-attachments/assets/ea099e2d-541c-426c-b55d-36a90584431d" />
+<img width="2237" height="1947" alt="tn5" src="https://github.com/user-attachments/assets/996703f6-c3f6-4912-b9a8-02d06d19d0a7" />
+
+▶️Click to Play
+
+[![Mesh Destruction](https://img.youtube.com/vi/P512S3Jg8M0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P512S3Jg8M0)
 
 ## Gameplay
 
