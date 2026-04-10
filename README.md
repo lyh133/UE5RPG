@@ -80,6 +80,12 @@ the outer skin and inner meat can be destroyed in runtime to create gore effect 
 <img width="2830" height="1915" alt="Screenshot 2026-03-04 000511" src="https://github.com/user-attachments/assets/ea099e2d-541c-426c-b55d-36a90584431d" />
 <img width="2237" height="1947" alt="tn5" src="https://github.com/user-attachments/assets/996703f6-c3f6-4912-b9a8-02d06d19d0a7" />
 
+Procedual mesh painting is implemented using render targets to unwrap mesh texture from 3D space into UV space before applying sphere mask.
+this creates a unwrapped texture with holes of hit location. this can be lerped with injury texture to paint blood or manipulate the mesh world offset to create holes in the mesh. 
+different shape of injury(claw mark) can also be painted by multipliying sphere mask with claw mark mask
+<img width="1558" height="1234" alt="Screenshot 2026-04-10 155611" src="https://github.com/user-attachments/assets/ddef8eae-4fcb-4a17-ae18-2bb029beb7d0" />
+<img width="1313" height="1444" alt="Screenshot 2026-04-10 155535" src="https://github.com/user-attachments/assets/0917affc-a775-4507-b391-390a10adaa37" />
+
 ▶️Click to Play
 
 [![Mesh Destruction](https://img.youtube.com/vi/P512S3Jg8M0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P512S3Jg8M0)
