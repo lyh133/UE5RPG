@@ -106,3 +106,11 @@ Details...
 
 ### Abilities
 Details...
+
+
+
+Notes:
+when exporting morph from DAZ to Unreal:
+morph character in daz must be in base resolution, must remove all components(eyes,eye brows, mouth)
+
+when using render capture to capture hit location, must edit showflags to disable atmosphere and other effects
