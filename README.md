@@ -30,7 +30,7 @@ My solo game project prototype. developed in Unreal Engine 5 using C++ and Bluep
 ### Advanced Locomotion System
 walk jog sprint with distance matching, Alternative Foot stoping. Look direction Rotation 
 
-▶️Click to Play
+▶️Click Image to Play
 
 [![advanced locomotion system](https://img.youtube.com/vi/Pew4T-PQANg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pew4T-PQANg)
 
@@ -51,13 +51,13 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 ### Hit Reaction
 
-▶️Click to Play
+▶️Click Image to Play
 <a href="https://www.bilibili.com/video/BV1AQK86rEGc/">
   <img width="1536" height="1434" alt="image" src="https://github.com/user-attachments/assets/4b517d6e-f484-4804-aa5d-239d04c145cf" />
 </a>
 
 ### Procedural Mesh Destruction
-▶️Click to Play
+▶️Click Image to Play
 [![Mesh Destruction](https://img.youtube.com/vi/P512S3Jg8M0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P512S3Jg8M0)
 
 Main Character has layers of inner mesh inside the outer skin. The inner meat, inner skeleton and inner organs
@@ -78,7 +78,7 @@ Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Heal
 - Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
 - character with high force will deal larger stance damage to reciepient, When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
   
-▶️Click to Play
+▶️Click Image to Play
 
 [![free camera locomotion](images/tn3.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
 ### AI
