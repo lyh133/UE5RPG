@@ -23,9 +23,9 @@ My solo game project prototype. developed in Unreal Engine 5 using C++ and Bluep
 - 8 Ways smooth start and stop animation
 - Additive Leaning when character runs in strafe locomotion
 - Wall Detection stopping animation
-- Foot and Hand IK for realistic foot placement on inclined surface 
+- Foot and Hand IK 
 - 4 directional Hit reaction System with Light,Medium, KnockBack and KnockDown Animation
-- 
+- Facial Expression morph
 ### Advanced Locomotion System
 walk jog sprint with distance matching, Alternative Foot stoping. Look direction Rotation 
 
@@ -41,6 +41,10 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 ### Running Into Wall Detection
 
 <img width="1722" height="1635" alt="Screenshot 2025-11-27 180347" src="https://github.com/user-attachments/assets/c5d47d9b-3949-4001-88ea-7763437f664d" />
+
+### Facial Expression
+
+<img width="1608" height="1312" alt="image" src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080" />
 
 ## Gore System
 
