@@ -13,13 +13,12 @@
   - [Abilities](#abilities)
 
 ## Overview
-My Action RPG Project with Unreal Engine. with characters imported from Dazstudio using Genesis 9 Skeleton with fully modular clothing and 8K resolution Mesh.
-works with Dazstudio Morph target to bring facial animation to character. 
+My solo game project prototype. developed in Unreal Engine 5 using C++ and Blueprints with a focus on action RPG combat
 
 ## Animation System
 - Animation Overlay System for additive animations (Injured,Tired, battle stance)
 - Ragdoll System and recovery animation
-- Aim Offset(characters upperbody moves with mouse)
+- Aim Offset
 - Look Direction Rotation(Smooth Character Rotation animation towards Look direction)
 - Turning Animation when sudden change in locomotion direction
 - strafe and non-strafe Locomotion
@@ -33,18 +32,10 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 ▶️Click to Play
 
-[![8 Ways strafe Locomotion](https://img.youtube.com/vi/t9RhUe8Mw7E/maxresdefault.jpg)](https://www.youtube.com/watch?v=t9RhUe8Mw7E)
+[![8 Ways strafe Locomotion](https://img.youtube.com/vi/Pew4T-PQANg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pew4T-PQANg)
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/40ce59b0-8cd2-4e69-a46b-2a402be2697b" />
-
-### free camera locomotion
-
-implemented with turning animation, start and stop
-
-▶️Click to Play
-
-[![Directional Hit Reaction](https://img.youtube.com/vi/_K6sNZNwI1U/maxresdefault.jpg)](https://www.youtube.com/watch?v=_K6sNZNwI1U)
 
 ### Directional Hit Reaction 
 has light,medium,knockback and knockdown severity
