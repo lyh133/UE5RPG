@@ -2,8 +2,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Animation System](#animation-system)
-  - [8 Ways strafe movement](#8-ways-Strafe-Locomotion)
-  - [Free camera locomotion](#Free-camera-locomotion)
+  - [Advanced Locomotion System](#advanced-locomotion-system)
   - [Ragdoll Animation](#Ragdoll-Animation)
 - [Gore System](#gore-system)
   - [Procedural Mesh Destruction](#procedural-mesh-destruction)
@@ -27,15 +26,13 @@ My solo game project prototype. developed in Unreal Engine 5 using C++ and Bluep
 - Wall Detection stopping animation
 - Foot and Hand IK for realistic foot placement on inclined surface 
 - 4 directional Hit reaction System with Light,Medium, KnockBack and KnockDown Animation
-### Strafe Locomotion  
+- 
+### Advanced Locomotion System
 walk jog sprint with distance matching, Alternative Foot stoping. Look direction Rotation 
 
 ▶️Click to Play
 
-[![8 Ways strafe Locomotion](https://img.youtube.com/vi/Pew4T-PQANg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pew4T-PQANg)
-
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/40ce59b0-8cd2-4e69-a46b-2a402be2697b" />
+[![advanced locomotion system](https://img.youtube.com/vi/Pew4T-PQANg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pew4T-PQANg)
 
 ### Directional Hit Reaction 
 has light,medium,knockback and knockdown severity
