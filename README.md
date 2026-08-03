@@ -50,7 +50,6 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 ## Hit Reaction and Gore System
 
 ### Hit Reaction
-
 ▶️Click Image to Play
 <a href="https://www.bilibili.com/video/BV1AQK86rEGc/">
   <img width="1536" height="1434" alt="image" src="https://github.com/user-attachments/assets/4b517d6e-f484-4804-aa5d-239d04c145cf" />
@@ -74,9 +73,12 @@ different shape of injury(claw mark) can also be painted by multipliying sphere 
 ## Gameplay
 
 ### Combat System
-Implemented with Unreal Engine GAS(GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force
-- Debuffs are applied to injured and tired character reducing regeneration rate and increases damage recieved.
-- character with high force will deal larger stance damage to reciepient, When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
+Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force ...
+- Each Attack has Force and Stagger Level, reciepient has Stance and poise,
+- character with high force will deal larger stance damage to reciepient When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
+- Poise means how much incoming interruption you can withstand before being staggered. Stagger Reaction will be based on the Stagger level of attack. small,mid,heavy,knockback,knockdown.
+- Debuffs and Buffs handled With Gameplay Effect
+- 
   
 ▶️Click Image to Play
 
