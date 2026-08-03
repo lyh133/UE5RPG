@@ -3,7 +3,8 @@
 - [Overview](#overview)
 - [Animation System](#animation-system)
   - [Advanced Locomotion System](#advanced-locomotion-system)
-- [Gore System](#gore-system)
+- [Hit Reaction and Gore System](#Hit-Reaction-and-Gore-System)
+  - [Hit-Reaction](#hit-reaction)
   - [Procedural Mesh Destruction](#procedural-mesh-destruction)
 - [Gameplay](#gameplay)
   - [Combat System](#combat-system)
@@ -46,21 +47,17 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 <img width="1608" height="1312" alt="image" src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080" />
 
-## HitReaction and Gore System
+## Hit Reaction and Gore System
 
-### Procedural Mesh Destruction
+### Hit Reaction
 
 ▶️Click to Play
-
 <a href="https://www.bilibili.com/video/BV1AQK86rEGc/">
-  <img
-    width="800"
-    alt="8 Ways Strafe Locomotion"
-    src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080"
-  />
+  <img width="1536" height="1434" alt="image" src="https://github.com/user-attachments/assets/4b517d6e-f484-4804-aa5d-239d04c145cf" />
 </a>
 
-
+### Procedural Mesh Destruction
+▶️Click to Play
 [![Mesh Destruction](https://img.youtube.com/vi/P512S3Jg8M0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P512S3Jg8M0)
 
 Main Character has layers of inner mesh inside the outer skin. The inner meat, inner skeleton and inner organs
