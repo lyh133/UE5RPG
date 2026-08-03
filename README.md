@@ -46,11 +46,20 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 <img width="1608" height="1312" alt="image" src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080" />
 
-## Gore System
+## HitReaction and Gore System
 
 ### Procedural Mesh Destruction
 
 ▶️Click to Play
+
+<a href="https://www.bilibili.com/video/BV1AQK86rEGc/">
+  <img
+    width="800"
+    alt="8 Ways Strafe Locomotion"
+    src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080"
+  />
+</a>
+
 
 [![Mesh Destruction](https://img.youtube.com/vi/P512S3Jg8M0/maxresdefault.jpg)](https://www.youtube.com/watch?v=P512S3Jg8M0)
 
