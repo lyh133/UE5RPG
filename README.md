@@ -3,7 +3,6 @@
 - [Overview](#overview)
 - [Animation System](#animation-system)
   - [Advanced Locomotion System](#advanced-locomotion-system)
-  - [Ragdoll Animation](#Ragdoll-Animation)
 - [Gore System](#gore-system)
   - [Procedural Mesh Destruction](#procedural-mesh-destruction)
 - [Gameplay](#gameplay)
@@ -33,23 +32,6 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 ▶️Click to Play
 
 [![advanced locomotion system](https://img.youtube.com/vi/Pew4T-PQANg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Pew4T-PQANg)
-
-### Directional Hit Reaction 
-has light,medium,knockback and knockdown severity
-
-▶️Click to Play
-
-[![free camera locomotion](https://img.youtube.com/vi/vHyyhOJNtnQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=vHyyhOJNtnQ)
-
-▶️Click to Play
-
-[![free camera locomotion](images/tn1.png)](https://www.bilibili.com/video/BV1ccZKBFEAy/)
-
-### Ragdoll Animation
-
-▶️Click to Play
-
-[![Ragdoll Animation](https://img.youtube.com/vi/DfBtOjgbt3k/maxresdefault.jpg)](https://www.youtube.com/watch?v=DfBtOjgbt3k)
 
 ### Foot and Hand IK
 <img width="1612" height="1774" alt="Screenshot 2025-11-27 175044" src="https://github.com/user-attachments/assets/b729262d-5fb1-40f3-b220-b8ed01998f80" />
