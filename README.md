@@ -172,14 +172,14 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 
 ### My League of Legends In UE
   - My League of Legends.I made Minion and Turret AI and Animation. Turrets mesh is destructable using chaos destruction. Made Lux Abilities Q W E R
-▶️ **Click the image to play the video**
+  - ▶️ **Click the image to play the video**
 <a href="https://www.bilibili.com/video/BV1s8KM6jELY/">
 <img width="2726" height="1854" alt="Screenshot 2026-07-03 231830" src="https://github.com/user-attachments/assets/931e0d6e-1209-4c3e-8012-398cb64f80c4" />
 </a>
 
 ### QQ Speed
   - QQ Speed was a popular racing gaming back in my childhood so I remade it in UE
-▶️ **Click the image to play the video**
+  - ▶️ **Click the image to play the video**
 
 <a href="https://www.bilibili.com/video/BV1ZvjV6CEQ7">
 <img width="2909" height="1734" alt="Screenshot 2026-06-16 203918" src="https://github.com/user-attachments/assets/65fc9626-7e57-48b0-9861-09c7841ea64d" />
