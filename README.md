@@ -78,24 +78,27 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 - character with high force will deal larger stance damage to reciepient When stance is rapidly decreased within short time window. reciepient will be stancebroken triggering KnockBack or KnockDown
 - Poise means how much incoming interruption you can withstand before being staggered. Stagger Reaction will be based on the Stagger level of attack. small,mid,heavy,knockback,knockdown.
 - Debuffs and Buffs handled With Gameplay Effect
-- 
-The system currently supports:
-  -Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
-  -Accurate Weapon Collision trace
-### AI
-UE State Tree
+
 
 ### Abilities
   -Data Driven Abilities/Weapon   (UAbilityData, UProjectileDataAsset, UItemDataAsset)
-<img width="2176" height="1521" alt="Screenshot 2026-08-04 140034" src="https://github.com/user-attachments/assets/ca03384c-88eb-4114-b3f1-5f64336e8f91" />
   -Default Melee Ability class, (Weapon Traced Melee Ability, Point Click Target Locked Ability)
-  -Sequenced Melee Combo Ability, with combo sequence has different damage ratio and base damage.
-  <img width="1846" height="337" alt="Screenshot 2026-08-04 140103" src="https://github.com/user-attachments/assets/bd20259f-9eba-48c7-9df6-0c007ffd4740" />
-
   -Default Ranged Ability Class, (Homing Projectile Ability, Non-Homing Projectile Abiltity)
+<img width="2176" height="1521" alt="Screenshot 2026-08-04 140034" src="https://github.com/user-attachments/assets/ca03384c-88eb-4114-b3f1-5f64336e8f91" />
+  -Sequenced Melee Combo Ability, with combo sequence has different damage ratio and base damage.
+ <img width="1885" height="703" alt="image" src="https://github.com/user-attachments/assets/9f2aedda-8afe-4cbf-ab0b-200f051d14d9" />
   -Default Projectile Class with custimisable VFX SFX, collision Box, and Onhit Effect.
+  <img width="2152" height="1347" alt="image" src="https://github.com/user-attachments/assets/8a5394b3-1bc0-48c0-b882-6ee03f677610" />
+
+### Weapon
+Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
+Accurate Weapon Collision trace
+Data Driven 
+<img width="1986" height="1633" alt="image" src="https://github.com/user-attachments/assets/0c1c0120-ff00-49bc-a46e-b17434818617" />
 
 
+### AI
+UE State Tree
 
 Notes:
 when exporting morph from DAZ to Unreal:
