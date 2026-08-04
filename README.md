@@ -91,9 +91,10 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
   <img width="2152" height="1347" alt="image" src="https://github.com/user-attachments/assets/8a5394b3-1bc0-48c0-b882-6ee03f677610" />
 
 ### Weapon
-Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
-Accurate Weapon Collision trace
-Data Driven 
+ - Data Driven
+ - Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
+ - Accurate Weapon Collision trace
+
 <img width="1986" height="1633" alt="image" src="https://github.com/user-attachments/assets/0c1c0120-ff00-49bc-a46e-b17434818617" />
 
 ### Damage Calculation
