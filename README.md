@@ -20,7 +20,7 @@
   - [Damage Calculation](#damage-calculation)
   - [AI](#ai)
 - [Demos](#demos)
-  - [My League of Legends Game](#my-league-of-legends-In-UE)
+  - [My League of Legends In UE](#my-league-of-legends-In-UE)
   - [QQ Speed](#qq-speed)
 
 ## Overview
