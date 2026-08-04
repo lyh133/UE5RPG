@@ -109,7 +109,6 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 - Poise means how much incoming interruption you can withstand before being staggered. Stagger Reaction will be based on the Stagger level of attack. small,mid,heavy,knockback,knockdown.
 - Debuffs and Buffs handled With Gameplay Effect
 
-
 ### Abilities
   - Data Driven Abilities/Weapon   (UAbilityData, UProjectileDataAsset, UItemDataAsset)
   - Default Melee Ability class, (Weapon Traced Melee Ability, Point Click Target Locked Ability)
@@ -119,13 +118,19 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
  <img width="1885" height="703" alt="image" src="https://github.com/user-attachments/assets/9f2aedda-8afe-4cbf-ab0b-200f051d14d9" />
   - Default Projectile Class with custimisable VFX SFX, collision Box, and Onhit Effect.
   <img width="2152" height="1347" alt="image" src="https://github.com/user-attachments/assets/8a5394b3-1bc0-48c0-b882-6ee03f677610" />
+  - Mark system: fully generalized, data-driven FMarkDefinition (apply/detonate GEs, stack-count gating, that supports arbitrary new marks without new C++.
+    Each abillity can apply mark or detonate mark with customisable effects
+    <img width="1970" height="918" alt="image" src="https://github.com/user-attachments/assets/b3bf2b7e-5e1b-4794-9b46-1579709c5c7c" />
+
 
 ### Weapon
- - Data Driven
  - Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
+ - Multiple weapons can be equipped simultaneously across different sockets, each independently traceable per-attack
  - Accurate Weapon Collision trace
-
+<img width="2813" height="1793" alt="Screenshot 2026-07-16 083328" src="https://github.com/user-attachments/assets/8bdf2eee-3360-468c-9e9c-eb17b09ae1bc" />
+ - Data Driven
 <img width="1986" height="1633" alt="image" src="https://github.com/user-attachments/assets/0c1c0120-ff00-49bc-a46e-b17434818617" />
+
 
 ### Damage Calculation
 - Damage is calculated through a custom Gameplay Effect Execution Calculation using Unreal Engine's Gameplay Ability System. This allows damage to be processed using the source and target attributes, Gameplay Tags, defensive statistics and values supplied by individual abilities.
