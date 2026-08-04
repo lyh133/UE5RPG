@@ -79,15 +79,21 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 - Poise means how much incoming interruption you can withstand before being staggered. Stagger Reaction will be based on the Stagger level of attack. small,mid,heavy,knockback,knockdown.
 - Debuffs and Buffs handled With Gameplay Effect
 - 
-  
-▶️Click Image to Play
-
-[![free camera locomotion](images/tn3.png)](https://www.bilibili.com/video/BV1VuZsBiEM9/)
+The system currently supports:
+  -Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
+  -Accurate Weapon Collision trace
 ### AI
-Details...
+UE State Tree
 
 ### Abilities
-Details...
+  -Data Driven Abilities/Weapon   (UAbilityData, UProjectileDataAsset, UItemDataAsset)
+<img width="2176" height="1521" alt="Screenshot 2026-08-04 140034" src="https://github.com/user-attachments/assets/ca03384c-88eb-4114-b3f1-5f64336e8f91" />
+  -Default Melee Ability class, (Weapon Traced Melee Ability, Point Click Target Locked Ability)
+  -Sequenced Melee Combo Ability, with combo sequence has different damage ratio and base damage.
+  <img width="1846" height="337" alt="Screenshot 2026-08-04 140103" src="https://github.com/user-attachments/assets/bd20259f-9eba-48c7-9df6-0c007ffd4740" />
+
+  -Default Ranged Ability Class, (Homing Projectile Ability, Non-Homing Projectile Abiltity)
+  -Default Projectile Class with custimisable VFX SFX, collision Box, and Onhit Effect.
 
 
 
