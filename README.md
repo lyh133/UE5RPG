@@ -7,12 +7,31 @@
   - [Hit-Reaction](#hit-reaction)
   - [Procedural Mesh Destruction](#procedural-mesh-destruction)
 - [Gameplay](#gameplay)
+  - [Architecture](#Architecture)
   - [Combat System](#combat-system)
   - [AI](#ai)
   - [Abilities](#abilities)
 
 ## Overview
-My solo game project prototype. developed in Unreal Engine 5 using C++ and Blueprints with a focus on action RPG combat
+My solo game project prototype and modular gameplay framework built in Unreal Engine 5 using C++ and Blueprints.
+
+### Currently Implemented
+
+- Advanced locomotion and animation systems
+- Gameplay Ability System integration
+- Melee, weapon and projectile abilities
+- Attribute and damage calculation systems
+- Directional hit reactions and stance breaking
+- StateTree enemy AI
+- Data-driven weapons and abilities
+- Procedural mesh damage and injury rendering
+
+### Todo
+
+- Expanded enemy variaty 
+- Add Complex AI behaviours
+- Inventory and equipment interface
+- Save and load support
 
 ## Animation System
 - Animation Overlay System for additive animations (Injured,Tired, battle stance)
@@ -71,6 +90,17 @@ different shape of injury(claw mark) can also be painted by multipliying sphere 
 <img width="1313" height="1444" alt="Screenshot 2026-04-10 155535" src="https://github.com/user-attachments/assets/0917affc-a775-4507-b391-390a10adaa37" />
 
 ## Gameplay
+
+### Architecture
+
+The project is structured around reusable C++ components, interfaces and Data Assets.
+
+- The Ability System Component manages attributes, abilities, Gameplay Effects and Gameplay Tags.
+- The Combat Component handles melee traces, weapon traces, damage application and combat targeting.
+- The Status Effect Component manages hit reactions, stagger, knockback, knockdown and temporary disabled states.
+- Data Assets store ability, projectile, weapon and item configuration.
+- Interfaces allow player characters, AI characters, abilities and combat systems to communicate without tightly coupling their classes.
+- Blueprint-facing C++ functions allow gameplay properties and visual behaviour to be configured inside the Unreal Editor.
 
 ### Combat System
 Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina,Mana,Stance,Physical Defence, Magical Defence, Regeneration Rate, Attack Damage,Ability Power, Attack Force ...
