@@ -19,6 +19,9 @@
   - [Weapon](#weapon)
   - [Damage Calculation](#damage-calculation)
   - [AI](#ai)
+- [Demos](#demos)
+  - [My League of Legends Game](#my-league-of-legends-game)
+  - [QQ Speed](#qq-speed)
 
 ## Overview
 My solo game project prototype and modular gameplay framework built in Unreal Engine 5 using C++ and Blueprints.
@@ -164,6 +167,24 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
   - Target acquisition and target-loss handling
   - Enemy attacks use the same Gameplay Ability System and combat components as the player. This allows AI-controlled characters to use abilities, apply damage, consume attributes and trigger status effects through the same reusable gameplay framework.
   - The StateTree structure is designed to support additional combat behaviours such as attack combinations, lunging attacks, grabbing the player, defensive reactions and different decisions based on distance, cooldowns and character state.
+
+## Demos
+
+### My League of Legends In UE
+My League of Legends.I made Minion and Turret AI and Animation. made turrets destructable 
+Made Lux Abilities Q W E R
+▶️ **Click the image to play the video**
+<a href="https://www.bilibili.com/video/BV1s8KM6jELY/">
+<img width="2726" height="1854" alt="Screenshot 2026-07-03 231830" src="https://github.com/user-attachments/assets/931e0d6e-1209-4c3e-8012-398cb64f80c4" />
+</a>
+
+### QQ Speed
+QQ Speed was a popular racing gaming back in my childhood so I remade it in UE
+▶️ **Click the image to play the video**
+
+<a href="https://www.bilibili.com/video/BV1ZvjV6CEQ7">
+<img width="2909" height="1734" alt="Screenshot 2026-06-16 203918" src="https://github.com/user-attachments/assets/65fc9626-7e57-48b0-9861-09c7841ea64d" />
+</a>
 
 Notes:
 when exporting morph from DAZ to Unreal:
