@@ -96,9 +96,31 @@ Accurate Weapon Collision trace
 Data Driven 
 <img width="1986" height="1633" alt="image" src="https://github.com/user-attachments/assets/0c1c0120-ff00-49bc-a46e-b17434818617" />
 
+### Damage Calculation
+Damage is calculated through a custom Gameplay Effect Execution Calculation using Unreal Engine's Gameplay Ability System. This allows damage to be processed using the source and target attributes, Gameplay Tags, defensive statistics and values supplied by individual abilities.
+The system currently supports three damage types:
+Physical Damage, reduced by Physical Defence, 
+Magical Damage, reduced by Magical Defence
+True Damage, which ignores defence
+Each ability passes its damage values through SetByCaller Gameplay Tags, allowing different attacks and abilities to dynamically define:
+Physical damage
+Magical damage
+True damage
+Physical defence penetration
+Magical defence penetration
+Percentage defence penetration
+Stance damage
+<img width="1563" height="1605" alt="image" src="https://github.com/user-attachments/assets/c71f9131-922f-4ac8-8c4d-7fc0b7b45805" />
+
+
 
 ### AI
-UE State Tree
+StateTree-based behaviour and state transitions
+Sight Hearing/Damage perception
+Team-based hostile target filtering
+Target acquisition and target-loss handling
+Enemy attacks use the same Gameplay Ability System and combat components as the player. This allows AI-controlled characters to use abilities, apply damage, consume attributes and trigger status effects through the same reusable gameplay framework.
+The StateTree structure is designed to support additional combat behaviours such as attack combinations, lunging attacks, grabbing the player, defensive reactions and different decisions based on distance, cooldowns and character state.
 
 Notes:
 when exporting morph from DAZ to Unreal:
