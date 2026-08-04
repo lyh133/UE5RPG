@@ -171,8 +171,7 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 ## Demos
 
 ### My League of Legends In UE
-  - My League of Legends.I made Minion and Turret AI and Animation. made turrets destructable 
-  Made Lux Abilities Q W E R
+  - My League of Legends.I made Minion and Turret AI and Animation. Turrets mesh is destructable using chaos destruction. Made Lux Abilities Q W E R
 ▶️ **Click the image to play the video**
 <a href="https://www.bilibili.com/video/BV1s8KM6jELY/">
 <img width="2726" height="1854" alt="Screenshot 2026-07-03 231830" src="https://github.com/user-attachments/assets/931e0d6e-1209-4c3e-8012-398cb64f80c4" />
