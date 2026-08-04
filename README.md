@@ -126,7 +126,6 @@ Implemented with UE GAS (GamePlay Ability System),  character has Health,Stamina
 ### Weapon
  - Weapon Equip unequip. dynamically add and remove abilities based on weapon equipped.
  - Multiple weapons can be equipped simultaneously across different sockets, each independently traceable per-attack
- - Accurate Weapon Collision trace
 <img width="2813" height="1793" alt="Screenshot 2026-07-16 083328" src="https://github.com/user-attachments/assets/8bdf2eee-3360-468c-9e9c-eb17b09ae1bc" />
  - Data Driven
 <img width="1986" height="1633" alt="image" src="https://github.com/user-attachments/assets/0c1c0120-ff00-49bc-a46e-b17434818617" />
