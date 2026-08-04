@@ -1,16 +1,24 @@
 # Unreal-Engine-RPG
 ## Table of Contents
+
 - [Overview](#overview)
+  - [Currently Implemented](#currently-implemented)
+  - [Todo](#todo)
 - [Animation System](#animation-system)
   - [Advanced Locomotion System](#advanced-locomotion-system)
-- [Hit Reaction and Gore System](#Hit-Reaction-and-Gore-System)
-  - [Hit-Reaction](#hit-reaction)
+  - [Foot and Hand IK](#foot-and-hand-ik)
+  - [Running Into Wall Detection](#running-into-wall-detection)
+  - [Facial Expression](#facial-expression)
+- [Hit Reaction and Gore System](#hit-reaction-and-gore-system)
+  - [Hit Reaction](#hit-reaction)
   - [Procedural Mesh Destruction](#procedural-mesh-destruction)
 - [Gameplay](#gameplay)
-  - [Architecture](#Architecture)
+  - [Architecture](#architecture)
   - [Combat System](#combat-system)
-  - [AI](#ai)
   - [Abilities](#abilities)
+  - [Weapon](#weapon)
+  - [Damage Calculation](#damage-calculation)
+  - [AI](#ai)
 
 ## Overview
 My solo game project prototype and modular gameplay framework built in Unreal Engine 5 using C++ and Blueprints.
