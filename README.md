@@ -81,7 +81,7 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 ### Hit Reaction
 ▶️Click Image to Play
-<a href="https://www.bilibili.com/video/BV1AQK86rEGc/">
+<a href="https://www.youtube.com/watch?v=nH1qPMZAEqk">
   <img width="1536" height="1434" alt="image" src="https://github.com/user-attachments/assets/4b517d6e-f484-4804-aa5d-239d04c145cf" />
 </a>
 
