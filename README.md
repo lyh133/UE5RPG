@@ -189,4 +189,7 @@ Notes:
 when exporting morph from DAZ to Unreal:
 morph character in daz must be in base resolution, must remove all components(eyes,eye brows, mouth)
 
-when using render capture to capture hit location, must edit showflags to disable atmosphere and other effects
+when using render capture to capture hit location, must edit showflags to disable atmosphere and other effects.
+
+On Montage Interrupted we cant set unset upperbody or else NPC breaks
+when cloning character BP, must assign BP combat component damage effect.
