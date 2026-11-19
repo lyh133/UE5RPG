@@ -75,7 +75,8 @@ walk jog sprint with distance matching, Alternative Foot stoping. Look direction
 
 ### Facial Expression
 
-<img width="1608" height="1312" alt="image" src="https://github.com/user-attachments/assets/e4a480a1-fe20-47c9-9ad8-5bbe9cd7f080" />
+<img width="1608" height="1312" alt="TN7" src="https://github.com/user-attachments/assets/0fa01a6d-e8c3-43e4-987a-b08841da2017" />
+
 
 ## Hit Reaction and Gore System
 
